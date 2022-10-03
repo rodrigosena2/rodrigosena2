@@ -1,7 +1,7 @@
 
 ### Hi! I'm Rodrigo, Welcome to my profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 - 🌱 Estudando JavaScript
-<img align="" alt="GIF" src="https://cdn.discordapp.com/attachments/318554398068310016/1015365605156728833/f9135788c6aeeec438abb986f283936c.gif" width="1100" height="700" />
+
 
 <hr>
 
